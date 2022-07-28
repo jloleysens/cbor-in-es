@@ -1,0 +1,9 @@
+{
+  "files": [
+    "./main.ts"
+  ],
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "noEmit": true
+  }
+}
